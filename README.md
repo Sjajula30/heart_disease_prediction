@@ -17,12 +17,11 @@ UCI Heart Disease Dataset (Cleveland)
 - Initial observations
 - Project setup on GitHub
 
-## Objective
-Analyze clinical data to predict the presence of heart disease and identify key risk factors.
+### Day 2
+- Extended EDA
+- Univariate and bivariate analysis
 
-## Dataset
-UCI Heart Disease Dataset (Cleveland)
-
-## Project Structure
-- Data/Raw dataset
-- Notebooks/EDA and analysis
+### Day 3
+- Data preprocessing
+- Logistic regression model training
+- Model evaluation (accuracy, classification report, confusion matrix, ROC-AUC)
